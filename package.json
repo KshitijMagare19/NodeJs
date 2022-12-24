@@ -1,0 +1,22 @@
+{
+  "name": "nodepackage",
+  "version": "1.0.0",
+  "description": "nodejas",
+  "main": "demo_http_url.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KshitijMagare19/NodeJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KshitijMagare19/NodeJs/issues"
+  },
+  "homepage": "https://github.com/KshitijMagare19/NodeJs#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
